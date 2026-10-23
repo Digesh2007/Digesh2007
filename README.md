@@ -18,25 +18,6 @@
 ---
 
 ## 💫 About Me
-
-```python
-class Digesh:
-    def __init__(self):
-        self.name = "Digesh K G"
-        self.college = "S-VYASA"
-        self.interests = ["Artificial Intelligence",
-                          "Machine Learning",
-                          "Software Development"]
-        self.languages = ["C", "Python"]
-        self.goal = "Collaborate with software companies"
-
-    def motto(self):
-        return "Learn every day. Build something meaningful."
-
-me = Digesh()
-print(me.motto())
-```
-
 - 🎓 Currently studying at **S-VYASA**
 - 🤖 Learning **Artificial Intelligence & Machine Learning**
 - 💻 Interested in **C, Python and software development**
